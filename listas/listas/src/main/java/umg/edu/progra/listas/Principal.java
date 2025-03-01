@@ -20,7 +20,7 @@ public class Principal {
         
         
         System.out.println("\n");
-        System.out.println("primero: " + lista.leerPrimero());
+        System.out.println("primero : " + lista.leerPrimero());
         
         
         
@@ -30,7 +30,7 @@ public class Principal {
         System.out.println("\n");
         
         Nodo dato = lista.buscarLista(4);  
-        System.out.println("dato: " + dato);
+        System.out.println("dato: " + dato );
         
         lista.insertarLista(dato, 10);
         System.out.println("lista " + lista);

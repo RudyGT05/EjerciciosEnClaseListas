@@ -186,7 +186,21 @@ public class Lista {
         return count;
     }
     
-    
+    public void ordenarLista() {
+    	
+    	 if () {
+    		 
+    	 }
+    	 else {
+    		 
+    	 }
+    	 
+    	
+    	  /**
+         La idea que tenemos es ir evaluando por medio de un if cada dato que se está ingresando con el anterior y si es menor lo mandamos al anterior hasta que no se repita
+         */
+    }
    
     
 }
+
